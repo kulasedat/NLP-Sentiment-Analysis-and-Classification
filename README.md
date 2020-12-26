@@ -4,7 +4,7 @@ This study focus on using Natural Language Techniques to find broad trends in th
 
 The goal of this project is to predict whether customers recommend the product they purchased using the information in their review text.
 
-Sentiment classification models are developed by using algorithms ***Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest*** and ***Ada Boosting***.
+Sentiment classification models are developed by using algorithms **Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest** and **Ada Boosting**.
 
 The dataset comes from Woman Clothing Review that can be find at (https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews).
 
